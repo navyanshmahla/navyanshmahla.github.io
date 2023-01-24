@@ -14,7 +14,7 @@ I have participated in a few hackathons from the institute itself like the CodeW
 
 I currently hold the **PoR** (Position of Responsibility) of **Institute Web and Coding Convener** of the Web n Coding Club (**WnCC**) where I carry out the activities which help people learn and build an interest in programming.
 
-I've worked on several projects which can be found <a href="http://127.0.0.1:4000/projects/">here</a>.
+I've worked on several projects which can be found <a href="https://navyanshmahla.github.io/projects/">here</a>.
 
 My hobbies include writing this blog :) listening to music and solving chess puzzles. PS: I rarely play full length games. 
 
